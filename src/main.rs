@@ -14,4 +14,5 @@ fn main() {
         );
     }
     assert_eq!(x, 4 * 6);
+    println!("x={}", x);
 }
